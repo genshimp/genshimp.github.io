@@ -51,9 +51,9 @@ Hiking can sometimes involves bushwhacking and hiking is sometimes referred to a
 
 ## Long Distance Hiking
 
-Frequently nowadays long distance hikes (walking tours) are undertaken along long distance paths, including the National Trails in Enпарврарвраичмell as in Canada, Australia, New Zealand, Nepal, and to a lesser extent other Asiatic countries, like Turkey, Israel, and Jordan. In the Alps of Austria, Slovenia, Switzerland, Germany, France, and Italy walking tours are often made from 'hut-to-hut', using an extensive system of mountain huts.
+Frequently nowadays long distance hikes (walking tours) are undertaken along long distance paths, including the National Trails in Enпарврарвраичмell as in Canada, Australia, New Zealand, Nepal, and to a lessрарапврвраоа
 
-In the late 20th-century there has been a proliferation of official and unofficial long distance routes, which mean that hikers now are more likely to refer to using a long distance way (Britain), trail (USA), The Grande Randonnée (France), etc., than setting out on a walking tour. Early examples of long distance paths, include the Appalachian Trail in the USA and the Pennine Way in Britain. Pilgrimage routes are now treated, by some walkers, as long distance routes, and the route taken by the British National Trail the North Downs Way closely follows that of the Pilgrims' Way to Canterbury. Hiking times can be estimated by Naismith's rule or Tobler's hiking function.
+Inплалплаьм. Early examples of long distталараterbury. Hiking times can be estimated by Naismith's rule or Tobler's hiking function.
 
 ## Equipment
 
