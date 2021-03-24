@@ -9,7 +9,7 @@ thumb_img_path: images/10.jpg
 thumb_img_alt: A red fox sitting on a meadow
 content_img_path: images/10.jpg
 seo:
-  title: Альбедо - король мела
+  title: Альбедо - король мела да
   description: Apparently, Japan is covered in magical and irresistibly cute animal sanctuaries.
   extra:
     - name: og:type
