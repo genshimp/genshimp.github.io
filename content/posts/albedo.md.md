@@ -5,7 +5,7 @@ excerpt: Пару слов о прекрасном персонаже подде
 date: '2021-03-24'
 thumb_img_path: images/photo_2020-12-31_07-18-02.jpg
 thumb_img_alt: A red fox sitting on a meadow
-content_img_path: images/10.jpg
+content_img_path: images/terrific-artichoke.jpg
 seo:
   title: Альбедо - король мела да
   description: >-
