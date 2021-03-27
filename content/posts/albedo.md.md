@@ -1,37 +1,41 @@
 ---
 title: Альбедо - король мела
-subtitle: >-
-  Пару слов о прекрасном персонаже поддержки Альбедо
-excerpt: >-
-  Пару слов о прекрасном персонаже поддержки Альбедо
-date: 2021-03-24
-thumb_img_path: images/10.jpg
+subtitle: Пару слов о прекрасном персонаже поддержки Альбедо
+excerpt: Пару слов о прекрасном персонаже поддержки Альбедо
+date: '2021-03-24'
+thumb_img_path: images/photo_2020-12-31_07-18-02.jpg
 thumb_img_alt: A red fox sitting on a meadow
 content_img_path: images/10.jpg
 seo:
   title: Альбедо - король мела да
-  description: Apparently, Japan is covered in magical and irresistibly cute animal sanctuaries.
+  description: >-
+    Apparently, Japan is covered in magical and irresistibly cute animal
+    sanctuaries.
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: article
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Альбедо - король мела
       keyName: property
-    - name: og:description
-      value: Apparently, Japan is covered in magical and irresistibly cute animal sanctuaries.
+    - name: 'og:description'
+      value: >-
+        Apparently, Japan is covered in magical and irresistibly cute animal
+        sanctuaries.
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/10.jpg
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Альбедо - король мела
-    - name: twitter:description
-      value: Apparently, Japan is covered in magical and irresistibly cute animal sanctuaries.
-    - name: twitter:image
+    - name: 'twitter:description'
+      value: >-
+        Apparently, Japan is covered in magical and irresistibly cute animal
+        sanctuaries.
+    - name: 'twitter:image'
       value: images/10.jpg
       relativeUrl: true
 layout: post
