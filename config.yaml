@@ -1,5 +1,5 @@
 title: Stackbit Fjord Theme
-baseURL: /
+baseURL: https://genshimp.github.io/
 params:
   palette: yellow
   header:
